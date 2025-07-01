@@ -1,6 +1,6 @@
 # C++
 
-# 📘 Fundamentos de Algoritmos en C/C++
+# 📘 C++ TODO LO DESARROLLADO EN ESTE LENGUAJE 
 
 Este repositorio contiene mis apuntes personales y código de los cursos universitarios de:
 - **Algoritmos y Programación**
@@ -19,3 +19,12 @@ Todos los ejemplos están escritos en `C++` y organizados por tema para mayor cl
    - `04_sorting_searching/`: Ordenamiento burbuja, búsqueda lineal/binaria
    - `05_strings_structs/`: Manipulación de cadenas y uso de estructuras
    - `Test`: Examenes realizados sobre todo el contenido.
+
+`Data Structures in C++`
+
+
+
+
+
+
+`Mis Proyectos`
