@@ -1,6 +1,6 @@
 # C++
 
-# 📘 Fundamentals of C/C++ Algorithms
+# 📘 Fundamentals of C++ Algorithms
 
 This repository contains my personal learning notes and code from university courses:
 - **Algorithms and Programming**
